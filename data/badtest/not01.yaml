@@ -1,0 +1,65 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 369
+    - 431
+  - !!python/tuple
+    - 443
+    - 505
+- !!python/tuple
+  - !!python/tuple
+    - 447
+    - 371
+  - !!python/tuple
+    - 487
+    - 411
+- !!python/tuple
+  - !!python/tuple
+    - 268
+    - 162
+  - !!python/tuple
+    - 326
+    - 220
+- !!python/tuple
+  - !!python/tuple
+    - 639
+    - 181
+  - !!python/tuple
+    - 667
+    - 209
+- !!python/tuple
+  - !!python/tuple
+    - 473
+    - 56
+  - !!python/tuple
+    - 523
+    - 106
+- !!python/tuple
+  - !!python/tuple
+    - 673
+    - 436
+  - !!python/tuple
+    - 739
+    - 502
+- !!python/tuple
+  - !!python/tuple
+    - 799
+    - 654
+  - !!python/tuple
+    - 865
+    - 720
+- !!python/tuple
+  - !!python/tuple
+    - 1077
+    - 332
+  - !!python/tuple
+    - 1125
+    - 380
+- !!python/tuple
+  - !!python/tuple
+    - 221
+    - 686
+  - !!python/tuple
+    - 283
+    - 748
+img_file_name: not01.jpg
