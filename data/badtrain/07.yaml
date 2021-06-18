@@ -1,0 +1,100 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 433
+    - 635
+  - !!python/tuple
+    - 522
+    - 724
+- !!python/tuple
+  - !!python/tuple
+    - 213
+    - 578
+  - !!python/tuple
+    - 280
+    - 644
+- !!python/tuple
+  - !!python/tuple
+    - 551
+    - 54
+  - !!python/tuple
+    - 592
+    - 95
+- !!python/tuple
+  - !!python/tuple
+    - 944
+    - 73
+  - !!python/tuple
+    - 976
+    - 105
+- !!python/tuple
+  - !!python/tuple
+    - 1176
+    - 63
+  - !!python/tuple
+    - 1212
+    - 99
+- !!python/tuple
+  - !!python/tuple
+    - 1284
+    - 621
+  - !!python/tuple
+    - 1368
+    - 705
+- !!python/tuple
+  - !!python/tuple
+    - 282
+    - 740
+  - !!python/tuple
+    - 369
+    - 826
+- !!python/tuple
+  - !!python/tuple
+    - 98
+    - 389
+  - !!python/tuple
+    - 139
+    - 430
+- !!python/tuple
+  - !!python/tuple
+    - 145
+    - 59
+  - !!python/tuple
+    - 179
+    - 94
+- !!python/tuple
+  - !!python/tuple
+    - 526
+    - 748
+  - !!python/tuple
+    - 590
+    - 811
+- !!python/tuple
+  - !!python/tuple
+    - 1195
+    - 734
+  - !!python/tuple
+    - 1245
+    - 784
+- !!python/tuple
+  - !!python/tuple
+    - 1310
+    - 265
+  - !!python/tuple
+    - 1351
+    - 306
+- !!python/tuple
+  - !!python/tuple
+    - 1245
+    - 235
+  - !!python/tuple
+    - 1284
+    - 274
+- !!python/tuple
+  - !!python/tuple
+    - 1367
+    - 100
+  - !!python/tuple
+    - 1399
+    - 132
+img_file_name: 07.jpg

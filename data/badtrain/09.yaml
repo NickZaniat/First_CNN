@@ -1,0 +1,142 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 245
+    - 441
+  - !!python/tuple
+    - 281
+    - 477
+- !!python/tuple
+  - !!python/tuple
+    - 344
+    - 16
+  - !!python/tuple
+    - 364
+    - 36
+- !!python/tuple
+  - !!python/tuple
+    - 677
+    - 10
+  - !!python/tuple
+    - 699
+    - 32
+- !!python/tuple
+  - !!python/tuple
+    - 628
+    - 3
+  - !!python/tuple
+    - 660
+    - 35
+- !!python/tuple
+  - !!python/tuple
+    - 3
+    - 13
+  - !!python/tuple
+    - 41
+    - 51
+- !!python/tuple
+  - !!python/tuple
+    - 632
+    - 520
+  - !!python/tuple
+    - 650
+    - 538
+- !!python/tuple
+  - !!python/tuple
+    - 353
+    - 569
+  - !!python/tuple
+    - 379
+    - 595
+- !!python/tuple
+  - !!python/tuple
+    - 138
+    - 453
+  - !!python/tuple
+    - 164
+    - 479
+- !!python/tuple
+  - !!python/tuple
+    - 104
+    - 344
+  - !!python/tuple
+    - 134
+    - 374
+- !!python/tuple
+  - !!python/tuple
+    - 562
+    - 356
+  - !!python/tuple
+    - 596
+    - 390
+- !!python/tuple
+  - !!python/tuple
+    - 489
+    - 245
+  - !!python/tuple
+    - 515
+    - 271
+- !!python/tuple
+  - !!python/tuple
+    - 294
+    - 126
+  - !!python/tuple
+    - 312
+    - 144
+- !!python/tuple
+  - !!python/tuple
+    - 992
+    - 295
+  - !!python/tuple
+    - 1026
+    - 329
+- !!python/tuple
+  - !!python/tuple
+    - 0
+    - 474
+  - !!python/tuple
+    - 32
+    - 506
+- !!python/tuple
+  - !!python/tuple
+    - 57
+    - 127
+  - !!python/tuple
+    - 81
+    - 151
+- !!python/tuple
+  - !!python/tuple
+    - 124
+    - 96
+  - !!python/tuple
+    - 148
+    - 120
+- !!python/tuple
+  - !!python/tuple
+    - 581
+    - 94
+  - !!python/tuple
+    - 605
+    - 118
+- !!python/tuple
+  - !!python/tuple
+    - 689
+    - 170
+  - !!python/tuple
+    - 711
+    - 192
+- !!python/tuple
+  - !!python/tuple
+    - 967
+    - 464
+  - !!python/tuple
+    - 1001
+    - 498
+- !!python/tuple
+  - !!python/tuple
+    - 713
+    - 546
+  - !!python/tuple
+    - 751
+    - 584
+img_file_name: 09.jpg

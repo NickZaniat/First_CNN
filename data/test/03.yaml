@@ -1,0 +1,23 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 272
+    - 221
+  - !!python/tuple
+    - 346
+    - 295
+- !!python/tuple
+  - !!python/tuple
+    - 348
+    - 432
+  - !!python/tuple
+    - 526
+    - 610
+- !!python/tuple
+  - !!python/tuple
+    - 634
+    - 281
+  - !!python/tuple
+    - 720
+    - 367
+img_file_name: 03.jpg

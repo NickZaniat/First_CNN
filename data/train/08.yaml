@@ -1,0 +1,72 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 89
+    - 155
+  - !!python/tuple
+    - 161
+    - 227
+- !!python/tuple
+  - !!python/tuple
+    - 278
+    - 224
+  - !!python/tuple
+    - 320
+    - 266
+- !!python/tuple
+  - !!python/tuple
+    - 368
+    - 223
+  - !!python/tuple
+    - 410
+    - 265
+- !!python/tuple
+  - !!python/tuple
+    - 449
+    - 218
+  - !!python/tuple
+    - 497
+    - 266
+- !!python/tuple
+  - !!python/tuple
+    - 224
+    - 211
+  - !!python/tuple
+    - 268
+    - 255
+- !!python/tuple
+  - !!python/tuple
+    - 143
+    - 215
+  - !!python/tuple
+    - 183
+    - 255
+- !!python/tuple
+  - !!python/tuple
+    - 8
+    - 223
+  - !!python/tuple
+    - 48
+    - 263
+- !!python/tuple
+  - !!python/tuple
+    - 550
+    - 213
+  - !!python/tuple
+    - 590
+    - 253
+- !!python/tuple
+  - !!python/tuple
+    - 333
+    - 206
+  - !!python/tuple
+    - 369
+    - 242
+- !!python/tuple
+  - !!python/tuple
+    - 505
+    - 195
+  - !!python/tuple
+    - 539
+    - 229
+img_file_name: 08.jpg

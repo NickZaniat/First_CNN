@@ -1,0 +1,79 @@
+data:
+- !!python/tuple
+  - !!python/tuple
+    - 459
+    - 557
+  - !!python/tuple
+    - 509
+    - 607
+- !!python/tuple
+  - !!python/tuple
+    - 1144
+    - 278
+  - !!python/tuple
+    - 1176
+    - 310
+- !!python/tuple
+  - !!python/tuple
+    - 586
+    - 85
+  - !!python/tuple
+    - 606
+    - 105
+- !!python/tuple
+  - !!python/tuple
+    - 883
+    - 88
+  - !!python/tuple
+    - 905
+    - 110
+- !!python/tuple
+  - !!python/tuple
+    - 295
+    - 91
+  - !!python/tuple
+    - 315
+    - 111
+- !!python/tuple
+  - !!python/tuple
+    - 60
+    - 282
+  - !!python/tuple
+    - 92
+    - 314
+- !!python/tuple
+  - !!python/tuple
+    - 771
+    - 698
+  - !!python/tuple
+    - 855
+    - 782
+- !!python/tuple
+  - !!python/tuple
+    - 883
+    - 698
+  - !!python/tuple
+    - 967
+    - 782
+- !!python/tuple
+  - !!python/tuple
+    - 125
+    - 487
+  - !!python/tuple
+    - 185
+    - 547
+- !!python/tuple
+  - !!python/tuple
+    - 979
+    - 109
+  - !!python/tuple
+    - 995
+    - 125
+- !!python/tuple
+  - !!python/tuple
+    - 1115
+    - 46
+  - !!python/tuple
+    - 1143
+    - 74
+img_file_name: 12.jpg
